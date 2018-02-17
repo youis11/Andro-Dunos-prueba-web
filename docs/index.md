@@ -14,9 +14,9 @@ Our team is composed by four members:
 
 Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM). This is our first project in this career.
 
-![team photo](http://www.museodelvideojuego.com/files/thumbs/jap/andro-dunos.jpg)
+![team photo](https://github.com/youis11/helloworld/blob/master/docs/Andro%20Dunos.jpg)
 
 Original gameplay
 -
 
-[![Andro Dunos](http://img2.game-oldies.com/sites/default/files/titles/snk-neo-geo/androdun.png)](https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
+[![Andro Dunos](https://github.com/youis11/helloworld/blob/master/docs/Andro%20Dunos.jpg)](https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
