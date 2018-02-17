@@ -21,5 +21,4 @@ Currently we are studying VideoGames Design and Development at the "Centre de la
 ###Original gameplay
 --
 
-[![Andro Dunos](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)]
-(https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
+[![Andro Dunos](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)](https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
