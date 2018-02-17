@@ -4,8 +4,8 @@
 Game description
 --
 
-Development team:
---
+Development team
+-
 
 Our team is composed by four members:
 
@@ -16,9 +16,9 @@ Our team is composed by four members:
 
 Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM). This is our first project in this career.
 
-![team photo](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)
+![team photo](http://www.museodelvideojuego.com/files/thumbs/jap/andro-dunos.jpg)
 
-###Original gameplay
---
+Original gameplay
+===
 
-[![Andro Dunos](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)](https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
+[![Andro Dunos](http://img2.game-oldies.com/sites/default/files/titles/snk-neo-geo/androdun.png)](https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
