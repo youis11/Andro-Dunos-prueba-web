@@ -1,9 +1,10 @@
-﻿##Andro Dunos
+﻿Andro Dunos
+==
 
-###Game description
+Game description
 --
 
-###Development team:
+Development team:
 --
 
 Our team is composed by four members:
@@ -15,10 +16,10 @@ Our team is composed by four members:
 
 Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM). This is our first project in this career.
 
-![team photo](D:\LLUIS\Imagenes\images.jpg)
+![team photo](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)
 
 ###Original gameplay
 --
 
-[![Andro Dunos](D:\LLUIS\Documents\helloworld\docs\Andro Dunos.jpg)]
+[![Andro Dunos](https://flyers.arcade-museum.com/flyers_video/visco/55000101.jpg)]
 (https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
