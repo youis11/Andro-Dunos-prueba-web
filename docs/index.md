@@ -1,7 +1,27 @@
-Description
+## Andro Dunos
+===
 
-Group:
-Me, myself and I
-(photo)
+### Game description
+--
 
-video youtube
+
+
+### Development team:
+--
+
+Our team is composed by four members:
+
+- Lluís Moreu as the manager.
+- Marc Gálvez as the lead programmer.
+- Marc Navas as the lead artist.
+- Christian Martínez as the QA lead.
+
+Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM). This is our first project in this career.
+
+![Team photo]("D:\LLUIS\Documents\helloworld\docs\Andro Dunos.jpg")
+
+### Original gameplay:
+--
+
+[![Andro Dunos Gameplay]("D:\LLUIS\Documents\helloworld\docs\Andro Dunos.jpg")]
+(https://www.youtube.com/watch?v=iQOrXlf34es "Arcade Longplay [092] Andro Dunos")
