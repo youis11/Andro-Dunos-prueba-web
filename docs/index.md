@@ -11,7 +11,7 @@ Our team consists of four members:
 - Marc Navas as the artist.
 - Christian Martínez as the QA.
 
-Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM) in Terrassa, Catalonia, Spain. This is our first project in this degree. This project consists of choosing an arcade game and program it from the beggining, so the whole group programmed the game but we had to take some responsabilities that were given to each of the group.
+Currently we are studying VideoGames Design and Development at the "Centre de la Imatge i Multimèdia" (CITM) in Terrassa, Catalonia, Spain. This is our first project in this degree. This project consists of choosing an arcade game and program it from the beggining, so the whole group is going to program the game but we had to take some responsabilities that were given to each of the group.
 
 ![team photo](helloworld/docs/Andro Dunos.jpg)
 
